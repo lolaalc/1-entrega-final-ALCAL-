@@ -1,0 +1,7 @@
+{
+  "name": "prueba en calse",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
